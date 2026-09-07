@@ -2,22 +2,22 @@ about:
   description: "If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based."
   license: GPL-3.0
   homepage: https://sw.kovidgoyal.net/kitty/
-  head: 4498c00
+  head: df00dd1
   archived: false
   latestVersion: "nightly"
-  collectedAt: 2026-09-07T05:27:59Z
+  collectedAt: 2026-09-07T18:56:53Z
 timeline:
   created: 2016-10-16
   lastCommit: 2026-09-07
   lastRelease: 2021-09-16
 popularity:
-  star: 34801
+  star: 34812
   watcher: 189
   fork: 1495
   release: 143
   contributor: 450
-  pullRequest: 2023
-  issue: 7025
+  pullRequest: 2021
+  issue: 7027
 language:
   Python: 3299309
   C: 2501928
@@ -36,59 +36,59 @@ recent:
     release: 0
     mergedPR: 45
     openPR: 2
-    closedIssue: 45
+    closedIssue: 47
     openIssue: 2
-    commit: 159
+    commit: 160
   last60d:
     since: 2026-07-09
     release: 3
     mergedPR: 76
     openPR: 4
-    closedIssue: 81
+    closedIssue: 83
     openIssue: 2
-    commit: 520
+    commit: 521
   last90d:
     since: 2026-06-09
     release: 5
     mergedPR: 114
     openPR: 4
-    closedIssue: 137
+    closedIssue: 139
     openIssue: 2
-    commit: 810
+    commit: 811
   last180d:
     since: 2026-03-11
     release: 11
     mergedPR: 269
     openPR: 4
-    closedIssue: 348
+    closedIssue: 350
     openIssue: 2
-    commit: 1854
+    commit: 1855
   last360d:
     since: 2025-09-12
     release: 15
     mergedPR: 379
     openPR: 4
-    closedIssue: 730
+    closedIssue: 732
     openIssue: 2
-    commit: 2935
+    commit: 2936
   last720d:
     since: 2024-09-17
     release: 29
     mergedPR: 486
     openPR: 4
-    closedIssue: 1468
+    closedIssue: 1470
     openIssue: 4
-    commit: 4588
+    commit: 4589
 total:
   release: 143
   mergedPR: 1518
   openPR: 4
-  closedIssue: 7017
+  closedIssue: 7019
   openIssue: 8
-  commit: 19191
+  commit: 19192
 ---
 path: /home/runner/.x-repo/github.com/kovidgoyal/kitty
-collectedAt: 2026-09-07T05:28:12Z
+collectedAt: 2026-09-07T18:57:04Z
 loc:
   Python:
     code: 75445
@@ -338,7 +338,7 @@ checks:
       - 'Warn: 8 commits out of 11 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:28:13+00:00
+  collectedAt: 2026-09-07T18:57:05+00:00
   platform:
     darwin/arm64:
       name:  kitten-darwin-arm64
