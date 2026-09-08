@@ -2,24 +2,24 @@ about:
   description: "If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based."
   license: GPL-3.0
   homepage: https://sw.kovidgoyal.net/kitty/
-  head: df00dd1
+  head: 024d34e
   archived: false
   latestVersion: "nightly"
-  collectedAt: 2026-09-08T02:43:02Z
+  collectedAt: 2026-09-08T05:21:27Z
 timeline:
   created: 2016-10-16
-  lastCommit: 2026-09-07
+  lastCommit: 2026-09-08
   lastRelease: 2021-09-16
 popularity:
-  star: 34815
+  star: 34819
   watcher: 189
-  fork: 1496
+  fork: 1497
   release: 143
-  contributor: 450
-  pullRequest: 2022
+  contributor: 451
+  pullRequest: 2023
   issue: 7028
 language:
-  Python: 3299309
+  Python: 3301082
   C: 2501928
   Go: 2112047
   Objective-C: 440183
@@ -29,71 +29,71 @@ language:
   Makefile: 1046
   Vim Script: 324
   Ruby: 116
-totalBytes: 8587950
+totalBytes: 8589723
 recent:
   last30d:
     since: 2026-08-09
     release: 0
-    mergedPR: 44
+    mergedPR: 45
     openPR: 3
-    closedIssue: 46
-    openIssue: 3
-    commit: 160
+    closedIssue: 47
+    openIssue: 2
+    commit: 164
   last60d:
     since: 2026-07-10
     release: 3
-    mergedPR: 75
+    mergedPR: 76
     openPR: 5
-    closedIssue: 83
-    openIssue: 3
-    commit: 521
+    closedIssue: 84
+    openIssue: 2
+    commit: 525
   last90d:
     since: 2026-06-10
     release: 5
-    mergedPR: 113
+    mergedPR: 114
     openPR: 5
-    closedIssue: 136
-    openIssue: 3
-    commit: 811
+    closedIssue: 137
+    openIssue: 2
+    commit: 815
   last180d:
     since: 2026-03-12
     release: 10
-    mergedPR: 267
+    mergedPR: 268
     openPR: 5
-    closedIssue: 345
-    openIssue: 3
-    commit: 1855
+    closedIssue: 346
+    openIssue: 2
+    commit: 1859
   last360d:
     since: 2025-09-13
     release: 15
-    mergedPR: 377
+    mergedPR: 378
     openPR: 5
-    closedIssue: 730
-    openIssue: 3
-    commit: 2936
+    closedIssue: 731
+    openIssue: 2
+    commit: 2940
   last720d:
     since: 2024-09-18
     release: 29
-    mergedPR: 486
+    mergedPR: 487
     openPR: 5
-    closedIssue: 1466
-    openIssue: 5
-    commit: 4588
+    closedIssue: 1467
+    openIssue: 4
+    commit: 4592
 total:
   release: 143
-  mergedPR: 1518
+  mergedPR: 1519
   openPR: 5
-  closedIssue: 7019
-  openIssue: 9
-  commit: 19192
+  closedIssue: 7020
+  openIssue: 8
+  commit: 19196
 ---
 path: /home/runner/.x-repo/github.com/kovidgoyal/kitty
-collectedAt: 2026-09-08T02:43:15Z
+collectedAt: 2026-09-08T05:21:41Z
 loc:
   Python:
-    code: 75445
-    comments: 2925
-    blanks: 11663
+    code: 75463
+    comments: 2935
+    blanks: 11675
     files: 259
   Go:
     code: 72312
@@ -211,9 +211,9 @@ loc:
     blanks: 0
     files: 4
 total:
-  code: 285057
-  comments: 71911
-  blanks: 35742
+  code: 285075
+  comments: 71921
+  blanks: 35754
   files: 964
 ---
 date: "2026-09-07"
