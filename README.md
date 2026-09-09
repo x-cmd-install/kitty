@@ -7,7 +7,7 @@ If you live in the terminal, kitty is made for you! Cross-platform, fast, featur
 - **Latest release**: `nightly` (2026-07-30)
 - **Last commit**: 2026-09-09
 - **License**: GPL-3.0
-- **Stars**: 34836 · **Forks**: 1499 · **Open issues**: 7029 · **Contributors**: 453
+- **Stars**: 34844 · **Forks**: 1499 · **Open issues**: 7030 · **Contributors**: 453
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/kitty> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:22:51Z._
+_Last regenerated: 2026-09-09T20:16:11Z._
