@@ -7,7 +7,7 @@ about:
   latestVersion: "nightly"
   latestRelease: "v0.48.2"
   latestPrerelease: "nightly"
-  collectedAt: 2026-09-10T17:44:59Z
+  collectedAt: 2026-09-10T23:46:57Z
 timeline:
   created: 2016-10-16
   lastCommit: 2026-09-10
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-07-30
   lastPrerelease: 2021-09-16
 popularity:
-  star: 34847
+  star: 34850
   watcher: 191
   fork: 1500
   release: 143
   contributor: 453
-  pullRequest: 2026
+  pullRequest: 2027
   issue: 7031
 language:
   Python: 3317536
@@ -39,7 +39,7 @@ recent:
     since: 2026-08-11
     release: 0
     mergedPR: 44
-    openPR: 1
+    openPR: 2
     closedIssue: 49
     openIssue: 1
     commit: 181
@@ -47,7 +47,7 @@ recent:
     since: 2026-07-12
     release: 3
     mergedPR: 75
-    openPR: 3
+    openPR: 4
     closedIssue: 85
     openIssue: 2
     commit: 542
@@ -55,7 +55,7 @@ recent:
     since: 2026-06-12
     release: 5
     mergedPR: 116
-    openPR: 3
+    openPR: 4
     closedIssue: 137
     openIssue: 2
     commit: 832
@@ -63,7 +63,7 @@ recent:
     since: 2026-03-14
     release: 10
     mergedPR: 271
-    openPR: 3
+    openPR: 4
     closedIssue: 341
     openIssue: 2
     commit: 1876
@@ -71,7 +71,7 @@ recent:
     since: 2025-09-15
     release: 15
     mergedPR: 378
-    openPR: 3
+    openPR: 4
     closedIssue: 733
     openIssue: 2
     commit: 2957
@@ -79,20 +79,20 @@ recent:
     since: 2024-09-20
     release: 29
     mergedPR: 489
-    openPR: 3
+    openPR: 4
     closedIssue: 1467
     openIssue: 4
     commit: 4603
 total:
   release: 143
   mergedPR: 1523
-  openPR: 3
+  openPR: 4
   closedIssue: 7023
   openIssue: 8
   commit: 19212
 ---
 path: /home/runner/.x-repo/github.com/kovidgoyal/kitty
-collectedAt: 2026-09-10T17:45:14Z
+collectedAt: 2026-09-10T23:47:11Z
 loc:
   Python:
     code: 75791
