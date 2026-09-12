@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 34,862 · **Forks**: 1,498 · **Open issues**: 7,032 · **Contributors**: 453
+- **Stars**: 34,867 · **Forks**: 1,498 · **Open issues**: 7,032 · **Contributors**: 453
 
 ## Totals (cumulative)
 
-- **Releases**: 143 · **Merged PRs**: 1523 · **Open PRs**: 4 · **Closed issues**: 7023 · **Open issues**: 9 · **Commits**: 19213
+- **Releases**: 143 · **Merged PRs**: 1523 · **Open PRs**: 4 · **Closed issues**: 7024 · **Open issues**: 8 · **Commits**: 19213
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 39 | 2 | 46 | 2 | 182 |
-| last60d | 2026-07-13 | 3 | 73 | 4 | 84 | 3 | 543 |
-| 90d | 2026-06-13 | 4 | 116 | 4 | 132 | 3 | 833 |
-| last180d | 2026-03-15 | 10 | 271 | 4 | 337 | 3 | 1877 |
-| 360d | 2025-09-16 | 15 | 378 | 4 | 730 | 3 | 2958 |
-| last720d | 2024-09-21 | 29 | 489 | 4 | 1464 | 5 | 4603 |
+| 30d | 2026-08-13 | 0 | 37 | 2 | 47 | 1 | 182 |
+| last60d | 2026-07-14 | 3 | 73 | 3 | 83 | 2 | 543 |
+| 90d | 2026-06-14 | 4 | 114 | 4 | 129 | 2 | 833 |
+| last180d | 2026-03-16 | 10 | 268 | 4 | 331 | 2 | 1877 |
+| 360d | 2025-09-17 | 15 | 378 | 4 | 728 | 2 | 2958 |
+| last720d | 2024-09-22 | 29 | 489 | 4 | 1464 | 4 | 4603 |
 
 ## Release assets
 
@@ -114,4 +114,4 @@ Install metadata for kitty lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T19:22:48Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T05:16:02Z._
