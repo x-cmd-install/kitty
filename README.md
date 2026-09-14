@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `nightly` (2026-07-30)
-- **Last commit**: 2026-09-13
+- **Last commit**: 2026-09-14
 - **Assets in release**: 35
 
 ## Popularity
 
-- **Stars**: 34,879 · **Forks**: 1,501 · **Open issues**: 7,034 · **Contributors**: 453
+- **Stars**: 34,889 · **Forks**: 1,504 · **Open issues**: 7,035 · **Contributors**: 453
 
 ## Totals (cumulative)
 
-- **Releases**: 143 · **Merged PRs**: 1523 · **Open PRs**: 3 · **Closed issues**: 7026 · **Open issues**: 8 · **Commits**: 19214
+- **Releases**: 143 · **Merged PRs**: 1524 · **Open PRs**: 3 · **Closed issues**: 7027 · **Open issues**: 8 · **Commits**: 19216
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 35 | 1 | 48 | 0 | 141 |
-| last60d | 2026-07-15 | 3 | 73 | 2 | 85 | 2 | 525 |
-| 90d | 2026-06-15 | 4 | 112 | 3 | 130 | 2 | 808 |
-| last180d | 2026-03-17 | 9 | 267 | 3 | 327 | 2 | 1800 |
-| 360d | 2025-09-18 | 15 | 378 | 3 | 728 | 2 | 2898 |
-| last720d | 2024-09-23 | 29 | 489 | 3 | 1463 | 4 | 4604 |
+| 30d | 2026-08-15 | 0 | 35 | 1 | 46 | 0 | 143 |
+| last60d | 2026-07-16 | 3 | 74 | 2 | 86 | 2 | 527 |
+| 90d | 2026-06-16 | 3 | 113 | 3 | 128 | 2 | 810 |
+| last180d | 2026-03-18 | 9 | 268 | 3 | 326 | 2 | 1802 |
+| 360d | 2025-09-19 | 15 | 379 | 3 | 728 | 2 | 2900 |
+| last720d | 2024-09-24 | 29 | 490 | 3 | 1463 | 4 | 4606 |
 
 ## Release assets
 
@@ -114,4 +114,4 @@ Install metadata for kitty lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:36:29Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:47:56Z._
