@@ -4,7 +4,7 @@
 
 If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 
-[![x-cmd/install — kitty Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kitty.svg?lang=zh)](https://x-cmd.com/install/kitty)
+[![x-cmd/install — kitty Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/kitty.svg?lang=zh)](https://x-cmd.com/install/kitty)
 
 ## 安装
 
@@ -14,15 +14,15 @@ x install kitty
 
 ## 代码洞察
 
-合计: **287,843** 行代码（覆盖前 5 种语言、共 **910** 个文件）。
+合计: **288,205** 行代码（覆盖前 5 种语言、共 **911** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 77,152 | 3,150 | 11,912 | 263 |
+| Python | 77,472 | 3,192 | 11,955 | 264 |
 | Go | 72,395 | 2,384 | 6,381 | 334 |
-| C | 71,088 | 5,023 | 7,599 | 139 |
-| CHeader | 36,465 | 8,713 | 2,529 | 103 |
-| ReStructuredText | 13,635 | 0 | 5,891 | 71 |
+| C | 71,112 | 5,036 | 7,599 | 139 |
+| CHeader | 36,466 | 8,713 | 2,529 | 103 |
+| ReStructuredText | 13,652 | 0 | 5,897 | 71 |
 
 ## OpenSSF Scorecard 评分
 
@@ -43,27 +43,27 @@ x install kitty
 ## 发布
 
 - **最新版本**: `nightly` (2026-09-21)
-- **最近提交**: 2026-09-21
+- **最近提交**: 2026-09-23
 - **Release 含资产**: 35 个
 
 ## 流行度
 
-- **Star**: 35,017 · **Fork**: 1,516 · **开放 issue**: 7,054 · **贡献者**: 456
+- **Star**: 35,036 · **Fork**: 1,519 · **开放 issue**: 7,058 · **贡献者**: 457
 
 ## 累计统计
 
-- **发布数**: 144 · **已合并 PR**: 1541 · **开放 PR**: 6 · **已关闭 issue**: 7046 · **开放 issue**: 8 · **提交数**: 19288
+- **发布数**: 144 · **已合并 PR**: 1544 · **开放 PR**: 7 · **已关闭 issue**: 7050 · **开放 issue**: 8 · **提交数**: 19304
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 44 | 4 | 48 | 1 | 163 |
-| last60d | 2026-07-24 | 3 | 86 | 5 | 96 | 2 | 558 |
-| 90d | 2026-06-24 | 4 | 121 | 6 | 133 | 2 | 818 |
-| last180d | 2026-03-26 | 9 | 273 | 6 | 319 | 2 | 1795 |
-| 360d | 2025-09-27 | 16 | 389 | 6 | 730 | 2 | 2914 |
-| last720d | 2024-10-02 | 28 | 507 | 6 | 1448 | 4 | 4637 |
+| 30d | 2026-08-24 | 1 | 44 | 5 | 48 | 1 | 179 |
+| last60d | 2026-07-25 | 2 | 88 | 6 | 98 | 2 | 574 |
+| 90d | 2026-06-25 | 4 | 123 | 7 | 136 | 2 | 834 |
+| last180d | 2026-03-27 | 9 | 273 | 7 | 321 | 2 | 1811 |
+| 360d | 2025-09-28 | 16 | 391 | 7 | 726 | 2 | 2930 |
+| last720d | 2024-10-03 | 28 | 510 | 7 | 1450 | 4 | 4653 |
 
 ## Release 资产
 
@@ -114,4 +114,4 @@ kitty 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:38:01Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:43:44Z._
