@@ -14,15 +14,15 @@ x install kitty
 
 ## 代码洞察
 
-合计: **288,205** 行代码（覆盖前 5 种语言、共 **911** 个文件）。
+合计: **288,304** 行代码（覆盖前 5 种语言、共 **911** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 77,472 | 3,192 | 11,955 | 264 |
+| Python | 77,522 | 3,199 | 11,959 | 264 |
 | Go | 72,395 | 2,384 | 6,381 | 334 |
 | C | 71,112 | 5,036 | 7,599 | 139 |
 | CHeader | 36,466 | 8,713 | 2,529 | 103 |
-| ReStructuredText | 13,652 | 0 | 5,897 | 71 |
+| ReStructuredText | 13,657 | 0 | 5,899 | 71 |
 
 ## OpenSSF Scorecard 评分
 
@@ -42,68 +42,68 @@ x install kitty
 
 ## 发布
 
-- **最新版本**: `nightly` (2026-09-21)
-- **最近提交**: 2026-09-23
+- **最新版本**: `v0.49.1` (2026-09-24)
+- **最近提交**: 2026-09-24
 - **Release 含资产**: 35 个
 
 ## 流行度
 
-- **Star**: 35,036 · **Fork**: 1,519 · **开放 issue**: 7,058 · **贡献者**: 457
+- **Star**: 35,054 · **Fork**: 1,523 · **开放 issue**: 7,061 · **贡献者**: 458
 
 ## 累计统计
 
-- **发布数**: 144 · **已合并 PR**: 1544 · **开放 PR**: 7 · **已关闭 issue**: 7050 · **开放 issue**: 8 · **提交数**: 19304
+- **发布数**: 145 · **已合并 PR**: 1545 · **开放 PR**: 8 · **已关闭 issue**: 7053 · **开放 issue**: 8 · **提交数**: 19312
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 1 | 44 | 5 | 48 | 1 | 179 |
-| last60d | 2026-07-25 | 2 | 88 | 6 | 98 | 2 | 574 |
-| 90d | 2026-06-25 | 4 | 123 | 7 | 136 | 2 | 834 |
-| last180d | 2026-03-27 | 9 | 273 | 7 | 321 | 2 | 1811 |
-| 360d | 2025-09-28 | 16 | 391 | 7 | 726 | 2 | 2930 |
-| last720d | 2024-10-03 | 28 | 510 | 7 | 1450 | 4 | 4653 |
+| 30d | 2026-08-25 | 2 | 44 | 6 | 49 | 1 | 187 |
+| last60d | 2026-07-26 | 3 | 89 | 7 | 100 | 2 | 582 |
+| 90d | 2026-06-26 | 5 | 123 | 8 | 137 | 2 | 842 |
+| last180d | 2026-03-28 | 10 | 271 | 8 | 322 | 2 | 1819 |
+| 360d | 2025-09-29 | 16 | 391 | 8 | 716 | 2 | 2938 |
+| last720d | 2024-10-04 | 29 | 509 | 8 | 1452 | 4 | 4661 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [kitten-darwin-amd64](https://github.com/kovidgoyal/kitty/releases/download/v0.49.0/kitten-darwin-amd64) | 30.5 MiB | `native/darwin/x64` |
-| [kitten-darwin-amd64.sig](https://github.com/kovidgoyal/kitty/releases/download/v0.49.0/kitten-darwin-amd64.sig) | 566 B | `native/darwin/x64` |
-| [kitten-darwin-arm64](https://github.com/kovidgoyal/kitty/releases/download/v0.49.0/kitten-darwin-arm64) | 28.8 MiB | `native/darwin/arm64` |
-| [kitten-darwin-arm64.sig](https://github.com/kovidgoyal/kitty/releases/download/v0.49.0/kitten-darwin-arm64.sig) | 566 B | `native/darwin/arm64` |
-| [kitten-dragonfly-amd64](https://github.com/kovidgoyal/kitty/releases/download/v0.49.0/kitten-dragonfly-amd64) | 29.5 MiB | `other` |
-| [kitten-dragonfly-amd64.sig](https://github.com/kovidgoyal/kitty/releases/download/v0.49.0/kitten-dragonfly-amd64.sig) | 566 B | `other` |
-| [kitten-freebsd-amd64](https://github.com/kovidgoyal/kitty/releases/download/v0.49.0/kitten-freebsd-amd64) | 29.6 MiB | `other` |
-| [kitten-freebsd-amd64.sig](https://github.com/kovidgoyal/kitty/releases/download/v0.49.0/kitten-freebsd-amd64.sig) | 566 B | `other` |
-| [kitten-freebsd-arm64](https://github.com/kovidgoyal/kitty/releases/download/v0.49.0/kitten-freebsd-arm64) | 27.8 MiB | `other` |
-| [kitten-freebsd-arm64.sig](https://github.com/kovidgoyal/kitty/releases/download/v0.49.0/kitten-freebsd-arm64.sig) | 566 B | `other` |
-| [kitten-linux-386](https://github.com/kovidgoyal/kitty/releases/download/v0.49.0/kitten-linux-386) | 28.4 MiB | `other` |
-| [kitten-linux-386.sig](https://github.com/kovidgoyal/kitty/releases/download/v0.49.0/kitten-linux-386.sig) | 566 B | `other` |
-| [kitten-linux-amd64](https://github.com/kovidgoyal/kitty/releases/download/v0.49.0/kitten-linux-amd64) | 29.7 MiB | `native/linux/x64` |
-| [kitten-linux-amd64.sig](https://github.com/kovidgoyal/kitty/releases/download/v0.49.0/kitten-linux-amd64.sig) | 566 B | `native/linux/x64` |
-| [kitten-linux-arm](https://github.com/kovidgoyal/kitty/releases/download/v0.49.0/kitten-linux-arm) | 28.6 MiB | `native/linux/arm` |
-| [kitten-linux-arm.sig](https://github.com/kovidgoyal/kitty/releases/download/v0.49.0/kitten-linux-arm.sig) | 566 B | `native/linux/arm` |
-| [kitten-linux-arm64](https://github.com/kovidgoyal/kitty/releases/download/v0.49.0/kitten-linux-arm64) | 27.9 MiB | `native/linux/arm64` |
-| [kitten-linux-arm64.sig](https://github.com/kovidgoyal/kitty/releases/download/v0.49.0/kitten-linux-arm64.sig) | 566 B | `native/linux/arm64` |
-| [kitten-netbsd-amd64](https://github.com/kovidgoyal/kitty/releases/download/v0.49.0/kitten-netbsd-amd64) | 29.5 MiB | `other` |
-| [kitten-netbsd-amd64.sig](https://github.com/kovidgoyal/kitty/releases/download/v0.49.0/kitten-netbsd-amd64.sig) | 566 B | `other` |
-| [kitten-netbsd-arm64](https://github.com/kovidgoyal/kitty/releases/download/v0.49.0/kitten-netbsd-arm64) | 27.8 MiB | `other` |
-| [kitten-netbsd-arm64.sig](https://github.com/kovidgoyal/kitty/releases/download/v0.49.0/kitten-netbsd-arm64.sig) | 566 B | `other` |
-| [kitten-openbsd-amd64](https://github.com/kovidgoyal/kitty/releases/download/v0.49.0/kitten-openbsd-amd64) | 29.6 MiB | `other` |
-| [kitten-openbsd-amd64.sig](https://github.com/kovidgoyal/kitty/releases/download/v0.49.0/kitten-openbsd-amd64.sig) | 566 B | `other` |
-| [kitten-openbsd-arm64](https://github.com/kovidgoyal/kitty/releases/download/v0.49.0/kitten-openbsd-arm64) | 27.9 MiB | `other` |
-| [kitten-openbsd-arm64.sig](https://github.com/kovidgoyal/kitty/releases/download/v0.49.0/kitten-openbsd-arm64.sig) | 566 B | `other` |
-| [kitty-0.49.0-arm64.txz](https://github.com/kovidgoyal/kitty/releases/download/v0.49.0/kitty-0.49.0-arm64.txz) | 41.4 MiB | `native/linux/arm64` |
-| [kitty-0.49.0-arm64.txz.sig](https://github.com/kovidgoyal/kitty/releases/download/v0.49.0/kitty-0.49.0-arm64.txz.sig) | 566 B | `other` |
-| [kitty-0.49.0-x86_64.txz](https://github.com/kovidgoyal/kitty/releases/download/v0.49.0/kitty-0.49.0-x86_64.txz) | 43.7 MiB | `native/linux/x64` |
-| [kitty-0.49.0-x86_64.txz.sig](https://github.com/kovidgoyal/kitty/releases/download/v0.49.0/kitty-0.49.0-x86_64.txz.sig) | 566 B | `other` |
-| [kitty-0.49.0.dmg](https://github.com/kovidgoyal/kitty/releases/download/v0.49.0/kitty-0.49.0.dmg) | 74.7 MiB | `other` |
-| [kitty-0.49.0.dmg.sig](https://github.com/kovidgoyal/kitty/releases/download/v0.49.0/kitty-0.49.0.dmg.sig) | 566 B | `other` |
-| [kitty-0.49.0.tar.xz](https://github.com/kovidgoyal/kitty/releases/download/v0.49.0/kitty-0.49.0.tar.xz) | 11.4 MiB | `other` |
-| [kitty-0.49.0.tar.xz.sig](https://github.com/kovidgoyal/kitty/releases/download/v0.49.0/kitty-0.49.0.tar.xz.sig) | 566 B | `other` |
-| [kitty-0.49.0.tar.xz.spdx.json](https://github.com/kovidgoyal/kitty/releases/download/v0.49.0/kitty-0.49.0.tar.xz.spdx.json) | 69.6 KiB | `other` |
+| [kitten-darwin-amd64](https://github.com/kovidgoyal/kitty/releases/download/v0.49.1/kitten-darwin-amd64) | 30.5 MiB | `native/darwin/x64` |
+| [kitten-darwin-amd64.sig](https://github.com/kovidgoyal/kitty/releases/download/v0.49.1/kitten-darwin-amd64.sig) | 566 B | `native/darwin/x64` |
+| [kitten-darwin-arm64](https://github.com/kovidgoyal/kitty/releases/download/v0.49.1/kitten-darwin-arm64) | 28.8 MiB | `native/darwin/arm64` |
+| [kitten-darwin-arm64.sig](https://github.com/kovidgoyal/kitty/releases/download/v0.49.1/kitten-darwin-arm64.sig) | 566 B | `native/darwin/arm64` |
+| [kitten-dragonfly-amd64](https://github.com/kovidgoyal/kitty/releases/download/v0.49.1/kitten-dragonfly-amd64) | 29.5 MiB | `other` |
+| [kitten-dragonfly-amd64.sig](https://github.com/kovidgoyal/kitty/releases/download/v0.49.1/kitten-dragonfly-amd64.sig) | 566 B | `other` |
+| [kitten-freebsd-amd64](https://github.com/kovidgoyal/kitty/releases/download/v0.49.1/kitten-freebsd-amd64) | 29.6 MiB | `other` |
+| [kitten-freebsd-amd64.sig](https://github.com/kovidgoyal/kitty/releases/download/v0.49.1/kitten-freebsd-amd64.sig) | 566 B | `other` |
+| [kitten-freebsd-arm64](https://github.com/kovidgoyal/kitty/releases/download/v0.49.1/kitten-freebsd-arm64) | 27.8 MiB | `other` |
+| [kitten-freebsd-arm64.sig](https://github.com/kovidgoyal/kitty/releases/download/v0.49.1/kitten-freebsd-arm64.sig) | 566 B | `other` |
+| [kitten-linux-386](https://github.com/kovidgoyal/kitty/releases/download/v0.49.1/kitten-linux-386) | 28.4 MiB | `other` |
+| [kitten-linux-386.sig](https://github.com/kovidgoyal/kitty/releases/download/v0.49.1/kitten-linux-386.sig) | 566 B | `other` |
+| [kitten-linux-amd64](https://github.com/kovidgoyal/kitty/releases/download/v0.49.1/kitten-linux-amd64) | 29.7 MiB | `native/linux/x64` |
+| [kitten-linux-amd64.sig](https://github.com/kovidgoyal/kitty/releases/download/v0.49.1/kitten-linux-amd64.sig) | 566 B | `native/linux/x64` |
+| [kitten-linux-arm](https://github.com/kovidgoyal/kitty/releases/download/v0.49.1/kitten-linux-arm) | 28.6 MiB | `native/linux/arm` |
+| [kitten-linux-arm.sig](https://github.com/kovidgoyal/kitty/releases/download/v0.49.1/kitten-linux-arm.sig) | 566 B | `native/linux/arm` |
+| [kitten-linux-arm64](https://github.com/kovidgoyal/kitty/releases/download/v0.49.1/kitten-linux-arm64) | 27.9 MiB | `native/linux/arm64` |
+| [kitten-linux-arm64.sig](https://github.com/kovidgoyal/kitty/releases/download/v0.49.1/kitten-linux-arm64.sig) | 566 B | `native/linux/arm64` |
+| [kitten-netbsd-amd64](https://github.com/kovidgoyal/kitty/releases/download/v0.49.1/kitten-netbsd-amd64) | 29.5 MiB | `other` |
+| [kitten-netbsd-amd64.sig](https://github.com/kovidgoyal/kitty/releases/download/v0.49.1/kitten-netbsd-amd64.sig) | 566 B | `other` |
+| [kitten-netbsd-arm64](https://github.com/kovidgoyal/kitty/releases/download/v0.49.1/kitten-netbsd-arm64) | 27.8 MiB | `other` |
+| [kitten-netbsd-arm64.sig](https://github.com/kovidgoyal/kitty/releases/download/v0.49.1/kitten-netbsd-arm64.sig) | 566 B | `other` |
+| [kitten-openbsd-amd64](https://github.com/kovidgoyal/kitty/releases/download/v0.49.1/kitten-openbsd-amd64) | 29.6 MiB | `other` |
+| [kitten-openbsd-amd64.sig](https://github.com/kovidgoyal/kitty/releases/download/v0.49.1/kitten-openbsd-amd64.sig) | 566 B | `other` |
+| [kitten-openbsd-arm64](https://github.com/kovidgoyal/kitty/releases/download/v0.49.1/kitten-openbsd-arm64) | 27.9 MiB | `other` |
+| [kitten-openbsd-arm64.sig](https://github.com/kovidgoyal/kitty/releases/download/v0.49.1/kitten-openbsd-arm64.sig) | 566 B | `other` |
+| [kitty-0.49.1-arm64.txz](https://github.com/kovidgoyal/kitty/releases/download/v0.49.1/kitty-0.49.1-arm64.txz) | 41.4 MiB | `native/linux/arm64` |
+| [kitty-0.49.1-arm64.txz.sig](https://github.com/kovidgoyal/kitty/releases/download/v0.49.1/kitty-0.49.1-arm64.txz.sig) | 566 B | `other` |
+| [kitty-0.49.1-x86_64.txz](https://github.com/kovidgoyal/kitty/releases/download/v0.49.1/kitty-0.49.1-x86_64.txz) | 43.8 MiB | `native/linux/x64` |
+| [kitty-0.49.1-x86_64.txz.sig](https://github.com/kovidgoyal/kitty/releases/download/v0.49.1/kitty-0.49.1-x86_64.txz.sig) | 566 B | `other` |
+| [kitty-0.49.1.dmg](https://github.com/kovidgoyal/kitty/releases/download/v0.49.1/kitty-0.49.1.dmg) | 73.4 MiB | `other` |
+| [kitty-0.49.1.dmg.sig](https://github.com/kovidgoyal/kitty/releases/download/v0.49.1/kitty-0.49.1.dmg.sig) | 566 B | `other` |
+| [kitty-0.49.1.tar.xz](https://github.com/kovidgoyal/kitty/releases/download/v0.49.1/kitty-0.49.1.tar.xz) | 11.4 MiB | `other` |
+| [kitty-0.49.1.tar.xz.sig](https://github.com/kovidgoyal/kitty/releases/download/v0.49.1/kitty-0.49.1.tar.xz.sig) | 566 B | `other` |
+| [kitty-0.49.1.tar.xz.spdx.json](https://github.com/kovidgoyal/kitty/releases/download/v0.49.1/kitty-0.49.1.tar.xz.spdx.json) | 70.4 KiB | `other` |
 
 ## 改进这些数据
 
@@ -114,4 +114,4 @@ kitty 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260923.yml` · 2026-09-23T05:43:44Z._
+_数据快照: `data/card/260924.yml` · 2026-09-24T05:18:02Z._
