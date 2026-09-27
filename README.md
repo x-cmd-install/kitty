@@ -14,15 +14,15 @@ x install kitty
 
 ## Code insight
 
-Total: **288,660** lines of code across **912** files in the top 5 languages.
+Total: **289,570** lines of code across **912** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 77,652 | 3,218 | 11,971 | 264 |
-| Go | 72,557 | 2,404 | 6,387 | 335 |
-| C | 71,151 | 5,051 | 7,600 | 139 |
-| CHeader | 36,466 | 8,713 | 2,529 | 103 |
-| ReStructuredText | 13,678 | 0 | 5,911 | 71 |
+| Python | 78,353 | 3,258 | 12,051 | 264 |
+| Go | 72,559 | 2,404 | 6,387 | 335 |
+| C | 71,270 | 5,052 | 7,600 | 139 |
+| CHeader | 36,527 | 8,713 | 2,533 | 103 |
+| ReStructuredText | 13,705 | 0 | 5,918 | 71 |
 
 ## OpenSSF Scorecard
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `nightly` (2026-09-24)
-- **Last commit**: 2026-09-26
+- **Last commit**: 2026-09-27
 - **Assets in release**: 35
 
 ## Popularity
 
-- **Stars**: 35,085 · **Forks**: 1,526 · **Open issues**: 7,073 · **Contributors**: 458
+- **Stars**: 35,088 · **Forks**: 1,528 · **Open issues**: 7,076 · **Contributors**: 460
 
 ## Totals (cumulative)
 
-- **Releases**: 145 · **Merged PRs**: 1552 · **Open PRs**: 9 · **Closed issues**: 7063 · **Open issues**: 10 · **Commits**: 19334
+- **Releases**: 145 · **Merged PRs**: 1556 · **Open PRs**: 8 · **Closed issues**: 7065 · **Open issues**: 11 · **Commits**: 19349
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 2 | 47 | 7 | 55 | 3 | 205 |
-| last60d | 2026-07-28 | 3 | 92 | 8 | 105 | 4 | 600 |
-| 90d | 2026-06-28 | 5 | 127 | 9 | 145 | 4 | 860 |
-| last180d | 2026-03-30 | 10 | 277 | 9 | 327 | 4 | 1837 |
-| 360d | 2025-10-01 | 16 | 398 | 9 | 714 | 4 | 2956 |
-| last720d | 2024-10-06 | 29 | 516 | 9 | 1456 | 6 | 4678 |
+| 30d | 2026-08-28 | 2 | 44 | 6 | 57 | 4 | 172 |
+| last60d | 2026-07-29 | 3 | 95 | 7 | 107 | 5 | 535 |
+| 90d | 2026-06-29 | 5 | 129 | 8 | 146 | 5 | 762 |
+| last180d | 2026-03-31 | 10 | 279 | 8 | 326 | 5 | 1755 |
+| 360d | 2025-10-02 | 15 | 402 | 8 | 713 | 5 | 2925 |
+| last720d | 2024-10-07 | 29 | 519 | 8 | 1454 | 7 | 4691 |
 
 ## Release assets
 
@@ -114,4 +114,4 @@ Install metadata for kitty lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T05:27:58Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T05:53:47Z._
