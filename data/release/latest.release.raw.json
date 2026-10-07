@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 31946432,
       "digest": "sha256:c19659526bfca93bf083be4c623e8f75ff0247ddcc8dce356302055c5e42ec43",
-      "download_count": 96,
+      "download_count": 120,
       "created_at": "2026-10-01T02:58:23Z",
       "updated_at": "2026-10-01T02:58:26Z",
       "browser_download_url": "https://github.com/kovidgoyal/kitty/releases/download/v0.49.2/kitten-darwin-amd64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 566,
       "digest": "sha256:0107141d8f8fd58405e270ca2d3c4b7878ed8bf284b151d0da016d443e2bae38",
-      "download_count": 21,
+      "download_count": 24,
       "created_at": "2026-10-01T02:58:44Z",
       "updated_at": "2026-10-01T02:58:44Z",
       "browser_download_url": "https://github.com/kovidgoyal/kitty/releases/download/v0.49.2/kitten-darwin-amd64.sig"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 30267554,
       "digest": "sha256:801dd5eed0738f7163c306e0ee1dead2c438b588b5ed49dc179cbf1b2350a527",
-      "download_count": 69,
+      "download_count": 82,
       "created_at": "2026-10-01T02:58:26Z",
       "updated_at": "2026-10-01T02:58:29Z",
       "browser_download_url": "https://github.com/kovidgoyal/kitty/releases/download/v0.49.2/kitten-darwin-arm64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 566,
       "digest": "sha256:e0d5718dd3004fd76cffe4abd214ec02c408266a51494af97492a3fdd52a294c",
-      "download_count": 11,
+      "download_count": 14,
       "created_at": "2026-10-01T02:58:45Z",
       "updated_at": "2026-10-01T02:58:45Z",
       "browser_download_url": "https://github.com/kovidgoyal/kitty/releases/download/v0.49.2/kitten-darwin-arm64.sig"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 30965920,
       "digest": "sha256:6a404e8031e4879d1e5285f784db21712c30f735bff9b66df62c520a41776fde",
-      "download_count": 34,
+      "download_count": 39,
       "created_at": "2026-10-01T02:57:53Z",
       "updated_at": "2026-10-01T02:57:56Z",
       "browser_download_url": "https://github.com/kovidgoyal/kitty/releases/download/v0.49.2/kitten-dragonfly-amd64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 566,
       "digest": "sha256:2c507ab256fc9bdb3aaa380535b7e58e8145ba936248246f61c8f8fb5a360ae6",
-      "download_count": 24,
+      "download_count": 26,
       "created_at": "2026-10-01T02:58:38Z",
       "updated_at": "2026-10-01T02:58:39Z",
       "browser_download_url": "https://github.com/kovidgoyal/kitty/releases/download/v0.49.2/kitten-dragonfly-amd64.sig"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 31002794,
       "digest": "sha256:5b2cf68a3871d52d28e339634fe9c2b44089e6fb2460cc5750ac3d2757838955",
-      "download_count": 29,
+      "download_count": 32,
       "created_at": "2026-10-01T02:58:10Z",
       "updated_at": "2026-10-01T02:58:13Z",
       "browser_download_url": "https://github.com/kovidgoyal/kitty/releases/download/v0.49.2/kitten-freebsd-amd64"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 566,
       "digest": "sha256:f74acc6b41204e01b7bddb26824e0f923e64d60f3219fc5c86e17e45141ff3c2",
-      "download_count": 20,
+      "download_count": 23,
       "created_at": "2026-10-01T02:58:42Z",
       "updated_at": "2026-10-01T02:58:42Z",
       "browser_download_url": "https://github.com/kovidgoyal/kitty/releases/download/v0.49.2/kitten-freebsd-amd64.sig"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 29163690,
       "digest": "sha256:d62edba664d7bf4e6809098a217ec6b586517ade55c4bd5720a27d69ab5544fd",
-      "download_count": 17,
+      "download_count": 19,
       "created_at": "2026-10-01T02:58:07Z",
       "updated_at": "2026-10-01T02:58:10Z",
       "browser_download_url": "https://github.com/kovidgoyal/kitty/releases/download/v0.49.2/kitten-freebsd-arm64"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 566,
       "digest": "sha256:e7ffb575b9f5cad79c7ddd3ac88551e598b8a9a0f6ac29ce572f125b66a7b94c",
-      "download_count": 10,
+      "download_count": 12,
       "created_at": "2026-10-01T02:58:41Z",
       "updated_at": "2026-10-01T02:58:41Z",
       "browser_download_url": "https://github.com/kovidgoyal/kitty/releases/download/v0.49.2/kitten-freebsd-arm64.sig"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 29737120,
       "digest": "sha256:5e5467e771fe12b7bf4492e5117daf19403e85b01800f30d8e362d02fabe141e",
-      "download_count": 18,
+      "download_count": 25,
       "created_at": "2026-10-01T02:58:13Z",
       "updated_at": "2026-10-01T02:58:16Z",
       "browser_download_url": "https://github.com/kovidgoyal/kitty/releases/download/v0.49.2/kitten-linux-386"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 566,
       "digest": "sha256:7d7f26cf2d8dd2f052592437352367f67cccf914d22b6ae432f68c5b643648df",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-10-01T02:58:42Z",
       "updated_at": "2026-10-01T02:58:42Z",
       "browser_download_url": "https://github.com/kovidgoyal/kitty/releases/download/v0.49.2/kitten-linux-386.sig"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 31129760,
       "digest": "sha256:2a803b4d411f327cc41b7193cb529f6de06ae3b169a346b3060212bbfeafc8bc",
-      "download_count": 499,
+      "download_count": 627,
       "created_at": "2026-10-01T02:57:50Z",
       "updated_at": "2026-10-01T02:57:52Z",
       "browser_download_url": "https://github.com/kovidgoyal/kitty/releases/download/v0.49.2/kitten-linux-amd64"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 566,
       "digest": "sha256:0cc3c3453b2e50c906a98a7fe893b85c496561575dd5530c910aeefd8c27b19c",
-      "download_count": 32,
+      "download_count": 35,
       "created_at": "2026-10-01T02:58:38Z",
       "updated_at": "2026-10-01T02:58:38Z",
       "browser_download_url": "https://github.com/kovidgoyal/kitty/releases/download/v0.49.2/kitten-linux-amd64.sig"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 29950112,
       "digest": "sha256:adf61668546eea337b6abd67d27bbd9ac0481aeb0aa7a20dbbfaae2386e1ac39",
-      "download_count": 19,
+      "download_count": 22,
       "created_at": "2026-10-01T02:57:57Z",
       "updated_at": "2026-10-01T02:58:00Z",
       "browser_download_url": "https://github.com/kovidgoyal/kitty/releases/download/v0.49.2/kitten-linux-arm"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 566,
       "digest": "sha256:8e909f9759c813bb2e6ca94d5f7931f99bb14b8db4bdb405128a3c280f055ad2",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-10-01T02:58:39Z",
       "updated_at": "2026-10-01T02:58:39Z",
       "browser_download_url": "https://github.com/kovidgoyal/kitty/releases/download/v0.49.2/kitten-linux-arm.sig"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 29294752,
       "digest": "sha256:a201f6aaead40a2c11291f8234d808ef87367951c6ecb3de0695571d810b7584",
-      "download_count": 41,
+      "download_count": 54,
       "created_at": "2026-10-01T02:58:30Z",
       "updated_at": "2026-10-01T02:58:32Z",
       "browser_download_url": "https://github.com/kovidgoyal/kitty/releases/download/v0.49.2/kitten-linux-arm64"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 566,
       "digest": "sha256:df10d792367ef92591f20886be962e837d6b0fd31799d3e390fe035cac70866a",
-      "download_count": 10,
+      "download_count": 12,
       "created_at": "2026-10-01T02:58:45Z",
       "updated_at": "2026-10-01T02:58:45Z",
       "browser_download_url": "https://github.com/kovidgoyal/kitty/releases/download/v0.49.2/kitten-linux-arm64.sig"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 30961843,
       "digest": "sha256:bdab9d75513cef7329b4008682fe0a4d775fa7e4a3575bb26d0e868f7749cac6",
-      "download_count": 23,
+      "download_count": 26,
       "created_at": "2026-10-01T02:58:17Z",
       "updated_at": "2026-10-01T02:58:20Z",
       "browser_download_url": "https://github.com/kovidgoyal/kitty/releases/download/v0.49.2/kitten-netbsd-amd64"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 566,
       "digest": "sha256:b5fda0d8dee23f90f33b98dfcb33678ba9e2af075610af95ad62447f37c0d65d",
-      "download_count": 25,
+      "download_count": 28,
       "created_at": "2026-10-01T02:58:43Z",
       "updated_at": "2026-10-01T02:58:43Z",
       "browser_download_url": "https://github.com/kovidgoyal/kitty/releases/download/v0.49.2/kitten-netbsd-amd64.sig"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 29098163,
       "digest": "sha256:75dcf7ff23af9c3a36b4ae4b766762e419944aefa260af0ba4f46457a1ec7c97",
-      "download_count": 9,
+      "download_count": 11,
       "created_at": "2026-10-01T02:58:00Z",
       "updated_at": "2026-10-01T02:58:03Z",
       "browser_download_url": "https://github.com/kovidgoyal/kitty/releases/download/v0.49.2/kitten-netbsd-arm64"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 566,
       "digest": "sha256:1e05dde8b312fbbc761f248929dd670d187a95c3c9a802f4a86e274f49b36bb1",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-10-01T02:58:40Z",
       "updated_at": "2026-10-01T02:58:40Z",
       "browser_download_url": "https://github.com/kovidgoyal/kitty/releases/download/v0.49.2/kitten-netbsd-arm64.sig"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 31039771,
       "digest": "sha256:27a277f85a779a9666f7bed5e9b9cd160124bb12e1ed6f67311f9e7decc3b632",
-      "download_count": 22,
+      "download_count": 24,
       "created_at": "2026-10-01T02:58:03Z",
       "updated_at": "2026-10-01T02:58:06Z",
       "browser_download_url": "https://github.com/kovidgoyal/kitty/releases/download/v0.49.2/kitten-openbsd-amd64"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 566,
       "digest": "sha256:8649d0cf8211630cd3858bb35e3e9ce9b090f44543221440980e75f7344f1497",
-      "download_count": 17,
+      "download_count": 19,
       "created_at": "2026-10-01T02:58:40Z",
       "updated_at": "2026-10-01T02:58:41Z",
       "browser_download_url": "https://github.com/kovidgoyal/kitty/releases/download/v0.49.2/kitten-openbsd-amd64.sig"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 29229339,
       "digest": "sha256:889a00219882a4c8412ae74081ec34d94461f59d78f4826caea661f10ba5de9d",
-      "download_count": 10,
+      "download_count": 12,
       "created_at": "2026-10-01T02:58:20Z",
       "updated_at": "2026-10-01T02:58:22Z",
       "browser_download_url": "https://github.com/kovidgoyal/kitty/releases/download/v0.49.2/kitten-openbsd-arm64"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 566,
       "digest": "sha256:15d77f19c11e11f2bbc651372d689d218aa1b88edfadd2e09fe607ce029cb0ea",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-10-01T02:58:43Z",
       "updated_at": "2026-10-01T02:58:44Z",
       "browser_download_url": "https://github.com/kovidgoyal/kitty/releases/download/v0.49.2/kitten-openbsd-arm64.sig"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 43493840,
       "digest": "sha256:0c81a995614426cccf0fecaf7d104d47cd63bbccf173d14976e9f92e3d60fce6",
-      "download_count": 298,
+      "download_count": 355,
       "created_at": "2026-10-01T02:57:45Z",
       "updated_at": "2026-10-01T02:57:49Z",
       "browser_download_url": "https://github.com/kovidgoyal/kitty/releases/download/v0.49.2/kitty-0.49.2-arm64.txz"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 566,
       "digest": "sha256:f1d6d80f503ab3c30a10575aa978d6b13ced812555590dfb495e716db3f3845b",
-      "download_count": 23,
+      "download_count": 25,
       "created_at": "2026-10-01T02:58:37Z",
       "updated_at": "2026-10-01T02:58:37Z",
       "browser_download_url": "https://github.com/kovidgoyal/kitty/releases/download/v0.49.2/kitty-0.49.2-arm64.txz.sig"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 45897008,
       "digest": "sha256:d573618b911e9c461bd421b96c13c74c7f1cb2f1ac9c327818d4ff84366cf5c6",
-      "download_count": 4701,
+      "download_count": 5340,
       "created_at": "2026-10-01T02:57:41Z",
       "updated_at": "2026-10-01T02:57:45Z",
       "browser_download_url": "https://github.com/kovidgoyal/kitty/releases/download/v0.49.2/kitty-0.49.2-x86_64.txz"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 566,
       "digest": "sha256:1e6b19a3a4551585d035763b670f391e74c84de9397634d49bb465a4d194a6bf",
-      "download_count": 88,
+      "download_count": 93,
       "created_at": "2026-10-01T02:58:37Z",
       "updated_at": "2026-10-01T02:58:37Z",
       "browser_download_url": "https://github.com/kovidgoyal/kitty/releases/download/v0.49.2/kitty-0.49.2-x86_64.txz.sig"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 77825600,
       "digest": "sha256:e524b894145d89cb76b584e3a9691196ae56bfa31d51384a44aa774252b7cef7",
-      "download_count": 26986,
+      "download_count": 30962,
       "created_at": "2026-10-01T02:57:33Z",
       "updated_at": "2026-10-01T02:57:40Z",
       "browser_download_url": "https://github.com/kovidgoyal/kitty/releases/download/v0.49.2/kitty-0.49.2.dmg"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 566,
       "digest": "sha256:043422e24319128bf10c53fc845fed3fef28c6375b2989be1b05bb012be094c4",
-      "download_count": 16,
+      "download_count": 20,
       "created_at": "2026-10-01T02:58:36Z",
       "updated_at": "2026-10-01T02:58:36Z",
       "browser_download_url": "https://github.com/kovidgoyal/kitty/releases/download/v0.49.2/kitty-0.49.2.dmg.sig"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 12013584,
       "digest": "sha256:aee888a42f6086f9cc5ee009c73f8191d2a3ea119dcaf737fdb37d7f176a54fc",
-      "download_count": 743,
+      "download_count": 924,
       "created_at": "2026-10-01T02:58:33Z",
       "updated_at": "2026-10-01T02:58:34Z",
       "browser_download_url": "https://github.com/kovidgoyal/kitty/releases/download/v0.49.2/kitty-0.49.2.tar.xz"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 566,
       "digest": "sha256:7b56eff732cfabaa0665eec7be5d4c04f6fc4b0ded23268933c1c7bb7b3b3a63",
-      "download_count": 77,
+      "download_count": 85,
       "created_at": "2026-10-01T02:58:35Z",
       "updated_at": "2026-10-01T02:58:35Z",
       "browser_download_url": "https://github.com/kovidgoyal/kitty/releases/download/v0.49.2/kitty-0.49.2.tar.xz.sig"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 72140,
       "digest": "sha256:34627fa33f255da1a9e9472a49d9e05e5ee4dc5a7d6f0c0220ed26febb73ec23",
-      "download_count": 9,
+      "download_count": 11,
       "created_at": "2026-10-01T02:58:35Z",
       "updated_at": "2026-10-01T02:58:35Z",
       "browser_download_url": "https://github.com/kovidgoyal/kitty/releases/download/v0.49.2/kitty-0.49.2.tar.xz.spdx.json"
@@ -1302,11 +1302,11 @@
   "body": "Release version 0.49.2. For changelog, see https://sw.kovidgoyal.net/kitty/changelog/#detailed-list-of-changes GPG key used for signing tarballs is: https://calibre-ebook.com/signatures/kovid.gpg",
   "reactions": {
     "url": "https://api.github.com/repos/kovidgoyal/kitty/releases/400612587/reactions",
-    "total_count": 31,
+    "total_count": 32,
     "+1": 3,
     "-1": 0,
     "laugh": 0,
-    "hooray": 5,
+    "hooray": 6,
     "confused": 0,
     "heart": 15,
     "rocket": 7,
