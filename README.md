@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `nightly` (2026-10-01)
-- **Last commit**: 2026-11-01
+- **Last commit**: 2026-11-02
 - **Assets in release**: 35
 
 ## Popularity
 
-- **Stars**: 35,494 · **Forks**: 1,580 · **Open issues**: 7,162 · **Contributors**: 478
+- **Stars**: 35,505 · **Forks**: 1,580 · **Open issues**: 7,164 · **Contributors**: 478
 
 ## Totals (cumulative)
 
-- **Releases**: 146 · **Merged PRs**: 1645 · **Open PRs**: 4 · **Closed issues**: 7156 · **Open issues**: 6 · **Commits**: 19861
+- **Releases**: 146 · **Merged PRs**: 1647 · **Open PRs**: 4 · **Closed issues**: 7157 · **Open issues**: 7 · **Commits**: 19865
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 73 | 0 | 72 | 1 | 355 |
-| last60d | 2026-09-02 | 3 | 129 | 1 | 143 | 2 | 657 |
-| 90d | 2026-08-03 | 3 | 178 | 3 | 190 | 2 | 926 |
-| last180d | 2026-05-05 | 11 | 295 | 4 | 345 | 2 | 1740 |
-| 360d | 2025-11-06 | 15 | 460 | 4 | 729 | 2 | 3232 |
-| last720d | 2024-11-11 | 29 | 597 | 4 | 1476 | 4 | 5085 |
+| 30d | 2026-10-03 | 0 | 74 | 0 | 72 | 2 | 359 |
+| last60d | 2026-09-03 | 3 | 131 | 1 | 141 | 3 | 661 |
+| 90d | 2026-08-04 | 3 | 177 | 2 | 191 | 3 | 930 |
+| last180d | 2026-05-06 | 11 | 291 | 4 | 344 | 3 | 1744 |
+| 360d | 2025-11-07 | 15 | 462 | 4 | 727 | 3 | 3236 |
+| last720d | 2024-11-12 | 29 | 599 | 4 | 1476 | 5 | 5085 |
 
 ## Release assets
 
@@ -114,4 +114,4 @@ Install metadata for kitty lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:37:02Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:42:35Z._
